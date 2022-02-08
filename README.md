@@ -1,8 +1,6 @@
-# SCRLLOCKMM
-SCRLLOCKMICMUTE gives the SCRLLOCK indicator an actual function.
-# 
-SCRLLOCK=ON : microphone muted
+# SCRLLOCKMICMUTE
+#### an actual function for the SCRLLOCK button and indicator!
+### SCRLLOCK=ON : microphone muted
+### SCRLLOCK=OFF : microphone unmuted
 #
-SCRLLOCK=OFF : microphone unmuted
-Running the .ahk or .exe for the first time will open a wizard, allowing you to choose the microphone to be muted.
-Download the .zip from releases!
+Running the .ahk or .exe for the first time will open a wizard, allowing you to choose the microphone to be muted. Download available under releases!
